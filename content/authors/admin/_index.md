@@ -27,7 +27,7 @@ education:
   - course: Ph.D. in Economics
     institution: Duke University
     year: 2022 (expected)
-  - course: B.A. in Mathematics, Economics, PPE
+  - course: B.A. in Mathematics, Economics
     institution: University of Notre Dame
     year: 2017
 
