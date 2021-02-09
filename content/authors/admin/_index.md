@@ -6,7 +6,7 @@ title: Shijie Jin
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Ph.D. Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
