@@ -9,21 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Contact
+title: Research
 subtitle:
 
 content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-  
-  # Email form provider
-  #####form:
-    #####provider: netlify
-    #####formspree:
-      #####id:
-    #####netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      #####captcha: false
+  reasearcccccch
   
 design:
   columns: '2'
