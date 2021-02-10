@@ -18,4 +18,6 @@ content:
 design:
   columns: '2'
 ---
-reseracccccch
+
+1. tablet
+2. semiconductor
