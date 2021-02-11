@@ -18,7 +18,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Empirical Industrial Organization
+- Industrial Organization
 - Applied Microeconomics
 
 # Education to show in About widget
