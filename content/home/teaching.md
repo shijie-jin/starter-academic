@@ -27,6 +27,6 @@ design:
 {{< staticref "media/eval_613.pdf" "newtab" >}}Evaluation{{< /staticref >}}
      
 
-* Intermediate Microeconomics (Undergraduate, Head TA), 2019--2020 \
+* Intermediate Microeconomics (Undergraduate, Head TA), 2019--2020
      
 
