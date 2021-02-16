@@ -19,6 +19,7 @@ design:
   columns: '2'
 ---
 
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-3. [link](instagram.com)
+1. "Vertical Specialization and Technology Adoption: Evidence from the Integrated Circuit Industry" (2020) 
+_In Progress_
+2. "Tariffs, Market Structure Dynamics, and Welfare with Endogenous Product Choice: A Study of the U.S. Tablet Computer Market" (2019)_Working Paper_
+_Working Paper_
