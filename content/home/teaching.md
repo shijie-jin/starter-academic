@@ -20,15 +20,14 @@ design:
 ---
 
 * Microeconomic Theory (Graduate), 2018 \
-[Evaluation]("https://github.com/shijie-jin/starter-academic/raw/master/static/media/eval_601.pdf") 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/eval_601.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< staticref "media/eval_601.pdf" "newtab" >}}Evaluation{{< /staticref >}}
+#####{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/eval_601.pdf" "newtab" >}}resumé{{< /staticref >}}.
      
 
 * Applied Microeconometrics (Graduate), 2019 \
-Evaluation 
+{{< staticref "media/eval_613.pdf" "newtab" >}}Evaluation{{< /staticref >}}
      
 
 * Intermediate Microeconomics (Undergraduate, Head TA), 2019--2020 \
-Evaluation 
      
 
