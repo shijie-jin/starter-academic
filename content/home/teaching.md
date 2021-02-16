@@ -20,11 +20,14 @@ design:
 ---
 
 * Microeconomic Theory (Graduate), 2018 \
-Evaluation
+Evaluation \
+     
 
 * Applied Microeconometrics (Graduate), 2019 \
-Evaluation
+Evaluation \
+     
 
 * Intermediate Microeconomics (Undergraduate, Head TA), 2019--2020 \
-Evaluation
+Evaluation \
+     
 
