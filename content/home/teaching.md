@@ -20,7 +20,7 @@ design:
 ---
 
 * Microeconomic Theory (Graduate), 2018 \
-[Evaluation]("media/CV.pdf") 
+[Evaluation]("https://github.com/shijie-jin/starter-academic/raw/master/static/media/eval_601.pdf") 
      
 
 * Applied Microeconometrics (Graduate), 2019 \
