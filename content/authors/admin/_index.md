@@ -66,5 +66,5 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. Candidate at Duke University in the Department of Economics. I specialize in industrial organization and applied microeconomics. Specifically, my research focuses on the topics of innovation, competition, and regulation.
+Hello! I am a Ph.D. Candidate at Duke University in the Department of Economics. I specialize in industrial organization and applied microeconomics. Specifically, my research focuses on the topics of innovation, competition, and regulation.
 
