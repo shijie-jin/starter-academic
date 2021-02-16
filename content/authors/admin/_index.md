@@ -24,10 +24,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Economics
+  - course: Ph.D., Economics
     institution: Duke University
     year: 2023 (expected)
-  - course: B.A. in Mathematics, Economics
+  - course: B.A., Economics, Mathematics
     institution: University of Notre Dame
     year: 2017
 
