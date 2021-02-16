@@ -21,7 +21,6 @@ design:
 
 * Microeconomic Theory (Graduate), 2018 \
 {{< staticref "media/eval_601.pdf" "newtab" >}}Evaluation{{< /staticref >}}
-#####{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/eval_601.pdf" "newtab" >}}resumé{{< /staticref >}}.
      
 
 * Applied Microeconometrics (Graduate), 2019 \
