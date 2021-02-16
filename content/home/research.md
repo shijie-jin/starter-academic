@@ -19,7 +19,7 @@ design:
   columns: '2'
 ---
 
-1. "Vertical Specialization and Technology Adoption: Evidence from the Integrated Circuit Industry" (2020)
+1. "Vertical Specialization and Technology Adoption: Evidence from the Integrated Circuit Industry" (2020) \
 
 
 
