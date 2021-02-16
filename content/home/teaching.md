@@ -19,9 +19,12 @@ design:
   columns: '2'
 ---
 
-* Microeconomic Theory (Graduate), 2018
+* Microeconomic Theory (Graduate), 2018 \
+Evaluation
 
-* Applied Microeconometrics (Graduate), 2019
+* Applied Microeconometrics (Graduate), 2019 \
+Evaluation
 
-* Intermediate Microeconomics (Undergraduate, Head TA), 2019--2020
+* Intermediate Microeconomics (Undergraduate, Head TA), 2019--2020 \
+Evaluation
 
