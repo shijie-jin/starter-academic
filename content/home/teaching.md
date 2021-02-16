@@ -20,7 +20,7 @@ design:
 ---
 
 * Microeconomic Theory (Graduate), 2018 \
-Evaluation 
+[Evaluation]("media/CV.pdf") 
      
 
 * Applied Microeconometrics (Graduate), 2019 \
