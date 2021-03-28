@@ -26,7 +26,7 @@ education:
   courses:
   - course: Ph.D., Economics
     institution: Duke University
-    year: 2023 (expected)
+    year: 2022 (expected)
   - course: B.A., Economics, Mathematics
     institution: University of Notre Dame
     year: 2017
