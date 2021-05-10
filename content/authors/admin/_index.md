@@ -66,5 +66,5 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am a Ph.D. Candidate at Duke University in the Department of Economics. My primary research fields are industrial organization and applied microeconomics. # Specifically, my research focuses on the topics of innovation, competition, and regulation.
+Hello! I am a Ph.D. Candidate at Duke University in the Department of Economics. My primary research fields are industrial organization and applied microeconomics. *Specifically, my research focuses on the topics of innovation, competition, and regulation.
 
