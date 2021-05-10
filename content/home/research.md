@@ -19,7 +19,7 @@ design:
   columns: '2'
 ---
 
-1. "Vertical Specialization and Technology Adoption: Evidence from the Integrated Circuit Industry" (2020)     
+1. "Vertical Specialization and Technology Adoption: Evidence from the Integrated Circuit Industry" (2021)     
      
      
 2. "Tariffs, Market Structure Dynamics, and Welfare with Endogenous Product Choice: A Study of the U.S. Tablet Computer Market" (2019)     
