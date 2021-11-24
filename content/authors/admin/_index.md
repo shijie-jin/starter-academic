@@ -18,15 +18,16 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Industrial Organization
 - Applied Microeconomics
+- Industrial Organization
+- Microeconomic Theory
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D., Economics
     institution: Duke University
-    year: 2022 (expected)
+    year: 2023 (expected)
   - course: B.A., Economics, Mathematics
     institution: University of Notre Dame
     year: 2017
